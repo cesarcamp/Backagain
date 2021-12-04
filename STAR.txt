@@ -1,0 +1,17 @@
+1.- Give an example of a tough goal you reached and tell me how you achieved it.
+
+Goal: Graduating as a data analyst.
+Before joining Ironhack I had never written a single line of code before, I was even rejected when attempting to join, so graduating from Ironhack required lots of persistence, self-motivation, continuous and fast-paced self-learning.
+I learned how to deal with frustration, how passion and persistence can help you achieve great things, and through the process, I became more disciplined as well. 
+
+2.- Give an example of a goal you didn't meet and how you handled it.
+
+Goal: Be the Highroller in the office
+When working in Sales at Alinta in Australia I had this goal of becoming the best salesperson within the office in terms of numbers(sales), I realized that I had a few challenges in front of me such as never selling before and
+the fact that all of the other guys at the office were native English speakers. The first couple of weeks I performed badly but through correct mentorship, I was able to overcome, and in the third week I was able to position myself within the top 5 in a group of +30. I was never able to reach the 1st position 
+but I learned that by approaching the correct people, looking for advice, and accepting that there is still a lot to learn you can achieve great things. Patience and persistence can be your best friends.
+
+3.- Give an example of a time where you used logic to solve a problem.
+
+During my last project at Ironhack, I was developing a model to predict the sentiment of the main banking institutions in Mexico but I found out that there is no model trained to predict the sentiment 
+in Spanish so I had to figure out a way to train one model, which my logic said that If I was able to find a dataset of tweets previously polarized in the Spanish language I would be able to train my model for my purposes.
